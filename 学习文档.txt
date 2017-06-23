@@ -1,0 +1,7 @@
+﻿具有git功能的Windows客户端软件有很多，如：git for windows（以前的msysGit）、TortoiseGit、GitHub Desktop（以前的GitHub for Windows）……
+
+笔者对这些客户端的理解：
+
+1、git for windows
+
+git 原产于 Linux，要在 Windows 上运行，需要移植。git for windows就是一个这样的移植项目。它移植的不仅仅是一个程序，而是在 Windows 上模拟出了一个 linux 环境。
